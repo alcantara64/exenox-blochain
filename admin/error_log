@@ -1,0 +1,40 @@
+[19-Nov-2018 23:53:39 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/luxevxkw/sandbox.exenox.co/admin/dbconnect.php on line 3
+[19-Nov-2018 23:53:39 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/luxevxkw/sandbox.exenox.co/admin/access.php on line 13
+[19-Nov-2018 23:53:39 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/luxevxkw/sandbox.exenox.co/admin/access.php on line 14
+[19-Nov-2018 23:53:39 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/luxevxkw/sandbox.exenox.co/admin/access.php on line 18
+[19-Nov-2018 23:53:39 America/New_York] PHP Notice:  Trying to get property of non-object in /home/luxevxkw/sandbox.exenox.co/admin/access.php on line 19
+[19-Nov-2018 23:55:37 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/luxevxkw/sandbox.exenox.co/admin/dbconnect.php on line 3
+[19-Nov-2018 23:55:37 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/luxevxkw/sandbox.exenox.co/admin/access.php on line 13
+[19-Nov-2018 23:55:37 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/luxevxkw/sandbox.exenox.co/admin/access.php on line 14
+[19-Nov-2018 23:55:37 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/luxevxkw/sandbox.exenox.co/admin/access.php on line 18
+[19-Nov-2018 23:55:37 America/New_York] PHP Notice:  Trying to get property of non-object in /home/luxevxkw/sandbox.exenox.co/admin/access.php on line 19
+[19-Nov-2018 23:55:58 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/luxevxkw/sandbox.exenox.co/admin/dbconnect.php on line 3
+[19-Nov-2018 23:55:58 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/luxevxkw/sandbox.exenox.co/admin/access.php on line 13
+[19-Nov-2018 23:55:58 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/luxevxkw/sandbox.exenox.co/admin/access.php on line 14
+[19-Nov-2018 23:55:58 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/luxevxkw/sandbox.exenox.co/admin/access.php on line 18
+[19-Nov-2018 23:55:58 America/New_York] PHP Notice:  Trying to get property of non-object in /home/luxevxkw/sandbox.exenox.co/admin/access.php on line 19
+[19-Nov-2018 23:56:25 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/luxevxkw/sandbox.exenox.co/admin/dbconnect.php on line 3
+[19-Nov-2018 23:56:25 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/luxevxkw/sandbox.exenox.co/admin/access.php on line 13
+[19-Nov-2018 23:56:25 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/luxevxkw/sandbox.exenox.co/admin/access.php on line 14
+[19-Nov-2018 23:56:25 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/luxevxkw/sandbox.exenox.co/admin/access.php on line 18
+[19-Nov-2018 23:56:25 America/New_York] PHP Notice:  Trying to get property of non-object in /home/luxevxkw/sandbox.exenox.co/admin/access.php on line 19
+[19-Nov-2018 23:57:17 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/luxevxkw/sandbox.exenox.co/admin/dbconnect.php on line 3
+[19-Nov-2018 23:57:17 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/luxevxkw/sandbox.exenox.co/admin/access.php on line 13
+[19-Nov-2018 23:57:17 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/luxevxkw/sandbox.exenox.co/admin/access.php on line 14
+[19-Nov-2018 23:57:17 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/luxevxkw/sandbox.exenox.co/admin/access.php on line 18
+[19-Nov-2018 23:57:17 America/New_York] PHP Notice:  Trying to get property of non-object in /home/luxevxkw/sandbox.exenox.co/admin/access.php on line 19
+[19-Nov-2018 23:57:56 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/luxevxkw/sandbox.exenox.co/admin/dbconnect.php on line 3
+[19-Nov-2018 23:57:56 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/luxevxkw/sandbox.exenox.co/admin/access.php on line 13
+[19-Nov-2018 23:57:56 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/luxevxkw/sandbox.exenox.co/admin/access.php on line 14
+[19-Nov-2018 23:57:56 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/luxevxkw/sandbox.exenox.co/admin/access.php on line 18
+[19-Nov-2018 23:57:56 America/New_York] PHP Notice:  Trying to get property of non-object in /home/luxevxkw/sandbox.exenox.co/admin/access.php on line 19
+[19-Nov-2018 23:58:40 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/luxevxkw/sandbox.exenox.co/admin/dbconnect.php on line 3
+[19-Nov-2018 23:58:40 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/luxevxkw/sandbox.exenox.co/admin/access.php on line 13
+[19-Nov-2018 23:58:40 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/luxevxkw/sandbox.exenox.co/admin/access.php on line 14
+[19-Nov-2018 23:58:40 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/luxevxkw/sandbox.exenox.co/admin/access.php on line 18
+[19-Nov-2018 23:58:40 America/New_York] PHP Notice:  Trying to get property of non-object in /home/luxevxkw/sandbox.exenox.co/admin/access.php on line 19
+[20-Nov-2018 00:01:58 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/luxevxkw/sandbox.exenox.co/admin/dbconnect.php on line 3
+[20-Nov-2018 00:01:58 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/luxevxkw/sandbox.exenox.co/admin/access.php on line 13
+[20-Nov-2018 00:01:58 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/luxevxkw/sandbox.exenox.co/admin/access.php on line 14
+[20-Nov-2018 00:01:58 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/luxevxkw/sandbox.exenox.co/admin/access.php on line 18
+[20-Nov-2018 00:01:58 America/New_York] PHP Notice:  Trying to get property of non-object in /home/luxevxkw/sandbox.exenox.co/admin/access.php on line 19
